@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://redead.github.io/my-website/sitemap.xml
